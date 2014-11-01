@@ -1,0 +1,102 @@
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "9Cx-SS-UdH"; */
+"9Cx-SS-UdH.normalTitle" = "■";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "BO8-bf-5Mm"; */
+"BO8-bf-5Mm.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "CpL-Vc-0QV"; */
+"CpL-Vc-0QV.normalTitle" = "■";
+
+/* Class = "IBUILabel"; text = "カウント:"; ObjectID = "DJy-qK-cEx"; */
+"DJy-qK-cEx.text" = "カウント:";
+
+/* Class = "IBUILabel"; text = "1000000"; ObjectID = "EwY-bV-vhq"; */
+"EwY-bV-vhq.text" = "1000000";
+
+/* Class = "IBUILabel"; text = "title"; ObjectID = "HC6-ah-mnw"; */
+"HC6-ah-mnw.text" = "title";
+
+/* Class = "IBUILabel"; text = "Limit"; ObjectID = "JYb-ed-3Re"; */
+"JYb-ed-3Re.text" = "Limit";
+
+/* Class = "IBUILabel"; text = "12"; ObjectID = "Ldb-0k-MWm"; */
+"Ldb-0k-MWm.text" = "12";
+
+/* Class = "IBUILabel"; text = "月"; ObjectID = "NeL-s1-05C"; */
+"NeL-s1-05C.text" = "月";
+
+/* Class = "IBUILabel"; text = "色"; ObjectID = "PWy-Sh-A1F"; */
+"PWy-Sh-A1F.text" = "色";
+
+/* Class = "IBUILabel"; text = "月末にリセット:"; ObjectID = "RQy-gS-MG6"; */
+"RQy-gS-MG6.text" = "月末にリセット:";
+
+/* Class = "IBUILabel"; text = "日"; ObjectID = "SYZ-JF-cjR"; */
+"SYZ-JF-cjR.text" = "日";
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "UbI-wJ-hTH"; */
+"UbI-wJ-hTH.normalTitle" = "■";
+
+/* Class = "IBUILabel"; text = "12"; ObjectID = "Wlw-Vu-8lm"; */
+"Wlw-Vu-8lm.text" = "12";
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "XeB-t4-V1h"; */
+"XeB-t4-V1h.normalTitle" = "■";
+
+/* Class = "IBUILabel"; text = "12"; ObjectID = "YGR-cV-Zjx"; */
+"YGR-cV-Zjx.text" = "12";
+
+/* Class = "IBUILabel"; text = "名前:"; ObjectID = "YRR-91-xbJ"; */
+"YRR-91-xbJ.text" = "名前:";
+
+/* Class = "IBUILabel"; text = "残り"; ObjectID = "bIX-4i-ono"; */
+"bIX-4i-ono.text" = "残り";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "d1K-r0-0MA"; */
+"d1K-r0-0MA.text" = "Label";
+
+/* Class = "IBUILabel"; text = "1000000"; ObjectID = "dds-NF-a7x"; */
+"dds-NF-a7x.text" = "1000000";
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "f0B-nk-qgd"; */
+"f0B-nk-qgd.normalTitle" = "■";
+
+/* Class = "IBUILabel"; text = "Max:"; ObjectID = "gb8-LZ-L4y"; */
+"gb8-LZ-L4y.text" = "Max:";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "jY9-sY-GjB"; */
+"jY9-sY-GjB.text" = "100";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "kLT-Z9-Rpe"; */
+"kLT-Z9-Rpe.text" = "Label";
+
+/* Class = "IBUILabel"; text = "日"; ObjectID = "kM8-jx-phg"; */
+"kM8-jx-phg.text" = "日";
+
+/* Class = "IBUILabel"; text = "バッジに表示:"; ObjectID = "kOK-dJ-WGf"; */
+"kOK-dJ-WGf.text" = "アイコンに数字表示:";
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "kd3-9w-a4S"; */
+"kd3-9w-a4S.normalTitle" = "■";
+
+/* Class = "IBUISegmentedControl"; n9P-1g-52q.segmentTitles[0] = "現在カウント"; ObjectID = "n9P-1g-52q"; */
+"n9P-1g-52q.segmentTitles[0]" = "現在カウント";
+
+/* Class = "IBUISegmentedControl"; n9P-1g-52q.segmentTitles[1] = "残りカウント"; ObjectID = "n9P-1g-52q"; */
+"n9P-1g-52q.segmentTitles[1]" = "残りカウント";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "oZr-3n-ryG"; */
+"oZr-3n-ryG.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Max:"; ObjectID = "pAh-fU-iN7"; */
+"pAh-fU-iN7.text" = "Max:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "rlH-Qv-Tef"; */
+"rlH-Qv-Tef.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "zNu-7o-XLS"; */
+"zNu-7o-XLS.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "■"; ObjectID = "zg5-LN-8D5"; */
+"zg5-LN-8D5.normalTitle" = "■";
